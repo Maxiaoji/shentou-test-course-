@@ -1,2 +1,2 @@
 # shentou-test-course-
-course notes
+course note
